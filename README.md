@@ -1,1 +1,37 @@
 # Understanding Node.js Core Concepts
+
+- Buffers
+- Streams
+- File System
+- Event Emitters
+- Modules System
+- HTTP
+- HTTPS
+- HTTP/2
+- NET
+- UDP/datagram
+- DNS
+- Crypto
+- Zlib
+- Timers
+- Utilities
+- REPL
+- Readline
+- os
+- Path
+- Scaling (& Microservices)
+- Worker Threads
+- Cluster
+- Child Processes
+- Testing
+- Typescript
+- Deploying
+- Debugging
+- Flags
+- Async Hooks
+- Performance Hooks
+- V8
+- VM
+- Inspector
+- N-API
+- WASI
